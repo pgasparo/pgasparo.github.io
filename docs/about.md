@@ -19,12 +19,4 @@
 
 
 
-I'm Piero Gasparotto, a 2nd year **DPhil student in Machine Learning at the University of Oxford**, supervised by Jakob Foerster and focusing on AI Security, Safety, and Interpretability. I'm best known for my **NeurIPS 2025 Spotlight paper AgentBreeder**, which explores evolutionary automated red team and blue team scaffold generation.
-
-I'm currently working on **Infusion** as part of the **UK AISI Challenge Fund** - an influence function-guided model poisoning framework. I'm participating in **Neel Nanda's MATS 10.0 Exploration Phase** and recently served as a **Teaching Assistant for ARENA 7.0** (Mechanistic Interpretability week).
-
-Previously, I was a **Research Scientist Intern at Spotify** and worked with **UK AISI on agentic scaffolds for Inspect** as part of their Bounty Programme. I was also the founding Research Scientist at Convergence (acquired by Salesforce for est. $200M), contributing to Proxy, a state-of-the-art multimodal web agent with 100k+ users.
-
-I'm a member of LISA (London Initiative for Safe AI) and enjoy playing trumpet in a funk band, running bouldering socials, and helping new climbers get certified.
-
-P.S. There are some easter eggs on this website - find one and drop the emoji in your email subject line!
+I'm Piero Gasparotto, a quantum software engineer at Microsoft Quantum, where I work on AI-driven solutions for end-to-end quantum chemistry and materials science workflows. My work spans machine learning, high-performance computing, and scientific software engineering, with a focus on building scalable, customer-facing platforms and automated workflows that translate advanced research into practical applications.
