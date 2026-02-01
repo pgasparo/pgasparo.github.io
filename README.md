@@ -1,6 +1,6 @@
 # Portfolio
 
-Paolo Gasparo's personal website.
+Piero Gasparotto's personal portfolio website showcasing research in AI Safety and Machine Learning.
 
 **Live site:** [pgasparo.github.io](https://pgasparo.github.io)
 
