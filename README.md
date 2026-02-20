@@ -1,6 +1,5 @@
 # Piero Gasparotto
 
-This repo hosts my personal GitHub Pages site.
+Personal website & publications portfolio — quantum software engineer at Microsoft Quantum, working at the intersection of ML, HPC, and computational chemistry.
 
-- Live: https://pgasparo.github.io
-- CV: `cv.pdf`
+🔗 **Live:** [pgasparo.github.io](https://pgasparo.github.io)
