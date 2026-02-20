@@ -1,1 +1,1 @@
-Check my full resume here: [Resume PDF](cv.pdf)
+Here is my [short CV](cv.pdf).
