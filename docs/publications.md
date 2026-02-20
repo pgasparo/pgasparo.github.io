@@ -13,7 +13,7 @@
         </h3>
         <div class="publication-venue"><em>arXiv preprint</em></div>
         <div class="publication-authors">NA Baker, B Bilodeau, C Chen, Y Chen, M Eckhoff, A Efimovskaya, <strong>P Gasparotto</strong>, P van Gerwen, F Ingulfsen, A Kottmann, H Li, G Mazzola, S Morino, A Nykänen, MH Raza, G Simeon, GNC Simm, DB Williams-Young</div>
-        <div class="publication-curiosity">⚛️ Chemistry is just nature, compiled.</div>
+        <div class="publication-curiosity">⚛️ Quantum Computing becoming accessible.</div>
         <div class="publication-description">Modular Python toolkit for quantum chemistry workflows on quantum computers, integrating resource estimation, circuit generation, and classical post-processing.</div>
     </div>
 </div>
@@ -29,7 +29,7 @@
         </h3>
         <div class="publication-venue"><em>arXiv preprint</em></div>
         <div class="publication-authors">GNC Simm, J Hélie, H Schulz, Y Chen, G Simeon, A Kuzina, E Martinez-Baez, <strong>P Gasparotto</strong>, NA Baker</div>
-        <div class="publication-curiosity">🧪 The secret life of plastics begins at the atomic scale.</div>
+        <div class="publication-curiosity">🧪 The future of plastics begins at the atomic scale.</div>
         <div class="publication-description">ML force fields trained on first-principles data enable efficient and accurate simulation of polymer thermomechanical properties.</div>
     </div>
 </div>
@@ -45,7 +45,7 @@
         </h3>
         <div class="publication-venue"><em>J. Appl. Crystallogr.</em> <strong>57</strong>(4), 931–944</div>
         <div class="publication-authors"><strong>P Gasparotto</strong>, L Barba, HC Stadler, G Assmann, H Mendonça, AW Ashton, et al.</div>
-        <div class="publication-curiosity">⚡ A crystal diffracts X-rays in milliseconds — now the software keeps up.</div>
+        <div class="publication-curiosity">⚡ A crystal diffracts X-rays faster than an eye blink — now the software keeps up.</div>
         <div class="publication-description">GPU-accelerated PyTorch-based algorithm for real-time indexing of serial crystallography diffraction patterns at kilohertz rates.</div>
     </div>
 </div>
@@ -75,7 +75,7 @@
         </h3>
         <div class="publication-venue"><em>IUCrJ</em> <strong>10</strong>(6), 729–737</div>
         <div class="publication-authors">F Leonarski, J Nan, Z Matej, Q Bertrand, A Furrer, I Gorgisyan, M Bjelčić, <strong>P Gasparotto</strong>, et al.</div>
-        <div class="publication-curiosity">📸 Photographing proteins 1,000 times a second, one crystal at a time.</div>
+        <div class="publication-curiosity">📸 Photographing proteins thousands of times a second, one crystal at a time.</div>
         <div class="publication-description">Demonstrated kilohertz serial protein crystallography at a fourth-generation synchrotron using the JUNGFRAU detector.</div>
     </div>
 </div>
@@ -151,7 +151,7 @@
         </h3>
         <div class="publication-venue"><em>J. Chem. Phys.</em> <strong>153</strong>(3), 034702</div>
         <div class="publication-authors">P Rowe, VL Deringer, <strong>P Gasparotto</strong>, G Csányi, A Michaelides</div>
-        <div class="publication-curiosity">💎 Diamond, graphite, fullerene — one element, infinite personalities, one model.</div>
+        <div class="publication-curiosity">💎 Diamond, graphite, fullerene — one element, many personalities, one model.</div>
         <div class="publication-description">Machine learning interatomic potential (GAP) for carbon that accurately describes graphite, diamond, amorphous phases, and liquid carbon.</div>
     </div>
 </div>
@@ -167,7 +167,7 @@
         </h3>
         <div class="publication-venue"><em>J. Phys. Chem. B</em> <strong>124</strong>(3), 589–599</div>
         <div class="publication-authors"><strong>P Gasparotto</strong>, D Bochicchio, M Ceriotti, GM Pavan</div>
-        <div class="publication-curiosity">🧩 Even self-assembled masterpieces have flaws — the trick is learning to spot them.</div>
+        <div class="publication-curiosity">🧩 How funny! Defects rule self-healing processes.</div>
         <div class="publication-description">ML-driven analysis of MD simulations to automatically identify and track defects in one-dimensional supramolecular polymer assemblies.</div>
     </div>
 </div>
@@ -223,7 +223,7 @@
         </h3>
         <div class="publication-venue"><em>Front. Mol. Biosci.</em> <strong>6</strong>, 24</div>
         <div class="publication-authors">BA Helfrecht, <strong>P Gasparotto</strong>, F Giberti, M Ceriotti</div>
-        <div class="publication-curiosity">🧬 Can a machine learn what a structural biologist memorizes over a career?</div>
+        <div class="publication-curiosity">🧬 Can a machine learn to see proteins the way an expert structural biologist does after a career of work?</div>
         <div class="publication-description">Benchmarked ML-based atomic environment recognition against known structural motifs in the Protein Data Bank.</div>
     </div>
 </div>
@@ -268,22 +268,7 @@
         <div class="publication-venue"><em>PhD Thesis</em>, EPFL</div>
         <div class="publication-authors"><strong>P Gasparotto</strong></div>
         <div class="publication-curiosity">🎓 "The purpose of computing is insight, not numbers." — Richard Hamming</div>
-        <div class="publication-description">Developed data-driven methods to automatically classify atomic-scale structural motifs in simulations.</div>
-    </div>
-</div>
-
-## 2017
-
-<div class="publication-card">
-    <div class="publication-content">
-        <h3 class="publication-title">
-            <a href="#" class="publication-link">
-                Anharmonic and Quantum Fluctuations in Molecular Crystals from Ab Initio Simulations
-            </a>
-        </h3>
-        <div class="publication-venue"><em>APS March Meeting Abstracts</em> 2017, L1.008</div>
-        <div class="publication-authors">M Rossi, <strong>P Gasparotto</strong>, M Ceriotti</div>
-        <div class="publication-description">Studied how quantum nuclear effects and anharmonicity determine polymorph stability in molecular crystals via path-integral simulations.</div>
+        <div class="publication-description">Developed unsupervised learning methods to automatically identify and classify atomic-scale structural motifs in simulations and large experimental datasets.</div>
     </div>
 </div>
 
@@ -328,7 +313,7 @@
         </h3>
         <div class="publication-venue"><em>J. Chem. Phys.</em> <strong>141</strong>(17), 174110</div>
         <div class="publication-authors"><strong>P Gasparotto</strong>, M Ceriotti</div>
-        <div class="publication-curiosity">🤔 "The question is not what you look at, but what you see." — H.D. Thoreau</div>
-        <div class="publication-description">Used ML with SOAP descriptors to define the hydrogen bond in water from simulation data without imposing geometric criteria.</div>
+        <div class="publication-curiosity">🤔 Hydrogen bonds are everywhere — yet no one agreed on what exactly they are.</div>
+        <div class="publication-description">A novel ML descriptors to define hydrogen bonds.</div>
     </div>
 </div>
