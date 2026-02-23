@@ -1,5 +1,7 @@
 # Résumé
 
+📄 <a href="cv.pdf" class="cactus-link" target="_blank">Download CV (PDF)</a>
+
 <div class="timeline">
 
   <div class="timeline-item">
