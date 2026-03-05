@@ -12,7 +12,7 @@
       <span class="timeline-dates">Mar 2025 – <strong class="text-accent">Present</strong></span>
     </div>
     <div class="timeline-meta">Redmond, WA · On-site · AI4Science and Quantum Computing</div>
-    <div class="timeline-desc">Leading end-to-end AI4Science solutions at the interface of computational chemistry, quantum computing, and cloud-native agentic workflows. � <a href="https://arxiv.org/abs/2601.15253" class="cactus-link">Read the paper</a> · �🔗 <a href="https://quantum.microsoft.com/" class="cactus-link">Microsoft Quantum</a></div>
+    <div class="timeline-desc">Leading end-to-end AI4Science solutions at the interface of computational chemistry, quantum computing, and cloud-native agentic workflows. 📜 <a href="https://arxiv.org/abs/2601.15253" class="cactus-link">Read the paper</a> · 🔗 <a href="https://quantum.microsoft.com/" class="cactus-link">Microsoft Quantum</a></div>
   </div>
 
   <div class="timeline-item">
