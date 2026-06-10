@@ -12,7 +12,7 @@
       <span class="timeline-dates">Mar 2025 – <strong class="text-accent">Present</strong></span>
     </div>
     <div class="timeline-meta">Redmond, WA · On-site · AI4Science and Quantum Computing</div>
-    <div class="timeline-desc">Leading end-to-end AI4Science solutions at the interface of computational chemistry, quantum computing, and cloud-native agentic workflows. 📜 <a href="https://arxiv.org/abs/2601.15253" class="cactus-link">Read the paper</a> · 🔗 <a href="https://quantum.microsoft.com/" class="cactus-link">Microsoft Quantum</a></div>
+    <div class="timeline-desc">Leading end-to-end AI4Science solutions at the interface of computational chemistry, quantum computing, and cloud-native agentic workflows. 📄 <a href="https://arxiv.org/abs/2601.15253" class="cactus-link">Read the paper</a> · 🔗 <a href="https://quantum.microsoft.com/" class="cactus-link">Microsoft Quantum</a></div>
   </div>
 
   <div class="timeline-item">
@@ -23,7 +23,7 @@
       <span class="timeline-dates">Oct 2023 – Mar 2025</span>
     </div>
     <div class="timeline-meta">Zurich, Switzerland & New York, USA · Remote</div>
-    <div class="timeline-desc">Building <a href="https://azure.microsoft.com/en-us/blog/quantum/product/azure-quantum-elements/" class="cactus-link">Azure Quantum Elements</a> to accelerate chemistry and materials science R&D. 📜 <a href="https://arxiv.org/abs/2510.13696" class="cactus-link">Read the paper</a></div>
+    <div class="timeline-desc">Building <a href="https://azure.microsoft.com/en-us/blog/quantum/product/azure-quantum-elements/" class="cactus-link">Azure Quantum Elements</a> to accelerate chemistry and materials science R&D. 📄 <a href="https://arxiv.org/abs/2510.13696" class="cactus-link">Read the paper</a></div>
   </div>
 
   <div class="timeline-item">
@@ -34,7 +34,7 @@
       <span class="timeline-dates">Feb 2023 – Oct 2023</span>
     </div>
     <div class="timeline-meta">Zurich, Switzerland · Remote</div>
-    <div class="timeline-desc">3D structure-based drug design. <a href="https://github.com/Ro5-ai/hydrascreen" class="cactus-link">Code</a> · 📜 <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.4c00481" class="cactus-link">Read the paper</a>. <span class="text-accent">Acquired by Juvenescence</span>.</div>
+    <div class="timeline-desc">3D structure-based drug design. <a href="https://github.com/Ro5-ai/hydrascreen" class="cactus-link">Code</a> · 📄 <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.4c00481" class="cactus-link">Read the paper</a>. <span class="text-accent">Acquired by Juvenescence</span>.</div>
   </div>
 
   <div class="timeline-item">
@@ -45,7 +45,7 @@
       <span class="timeline-dates">Apr 2021 – Oct 2023</span>
     </div>
     <div class="timeline-meta">Villigen, Switzerland · On-site</div>
-    <div class="timeline-desc">Designed a new data-processing pipeline for next-gen X-ray detectors with the Swiss National Supercomputing Centre and Swiss Data Science Center. <a href="https://github.com/SwissDataScienceCenter/toro-indexer-for-serial-crystallography" class="cactus-link">Code</a> · 📜 <a href="https://journals.iucr.org/j/issues/2024/04/00/jo5098/jo5098.pdf" class="cactus-link">Read the paper</a></div>
+    <div class="timeline-desc">Designed a new data-processing pipeline for next-gen X-ray detectors with the Swiss National Supercomputing Centre and Swiss Data Science Center. <a href="https://github.com/SwissDataScienceCenter/toro-indexer-for-serial-crystallography" class="cactus-link">Code</a> · 📄 <a href="https://journals.iucr.org/j/issues/2024/04/00/jo5098/jo5098.pdf" class="cactus-link">Read the paper</a></div>
   </div>
 
   <div class="timeline-item">
@@ -56,7 +56,7 @@
       <span class="timeline-dates">Apr 2019 – Apr 2021</span>
     </div>
     <div class="timeline-meta">Zurich, Switzerland · On-site · <a href="https://www.empa.ch/web/s205/" class="cactus-link">nanotech@surfaces</a></div>
-    <div class="timeline-desc">Computational material science, molecular design, atomistic modelling and machine learning. 📜 <a href="https://pubs.acs.org/doi/abs/10.1021/acsami.0c19270" class="cactus-link">Read the paper</a></div>
+    <div class="timeline-desc">Computational material science, molecular design, atomistic modelling and machine learning. 📄 <a href="https://pubs.acs.org/doi/abs/10.1021/acsami.0c19270" class="cactus-link">Read the paper</a></div>
   </div>
 
   <div class="timeline-item">
