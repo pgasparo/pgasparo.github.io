@@ -7,7 +7,7 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">Microsoft</span>
+      <span class="timeline-org"><img src="assets/logos/microsoft.svg" alt="" aria-hidden="true" class="timeline-org-logo">Microsoft</span>
       <span class="timeline-role">Senior Quantum Software Engineer</span>
       <span class="timeline-dates">Mar 2025 – <strong class="text-accent">Present</strong></span>
     </div>
@@ -18,7 +18,7 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">Microsoft</span>
+      <span class="timeline-org"><img src="assets/logos/microsoft.svg" alt="" aria-hidden="true" class="timeline-org-logo">Microsoft</span>
       <span class="timeline-role">Senior Machine Learning Engineer</span>
       <span class="timeline-dates">Oct 2023 – Mar 2025</span>
     </div>
@@ -29,7 +29,7 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">Ro5</span>
+      <span class="timeline-org"><img src="assets/logos/ro5.png" alt="" aria-hidden="true" class="timeline-org-logo">Ro5</span>
       <span class="timeline-role">Principal Machine Learning Scientist</span>
       <span class="timeline-dates">Feb 2023 – Oct 2023</span>
     </div>
@@ -40,7 +40,7 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">PSI Paul Scherrer Institut</span>
+      <span class="timeline-org"><img src="assets/logos/psi.png" alt="" aria-hidden="true" class="timeline-org-logo">PSI Paul Scherrer Institut</span>
       <span class="timeline-role">Machine Learning & Software Scientist</span>
       <span class="timeline-dates">Apr 2021 – Oct 2023</span>
     </div>
@@ -51,7 +51,7 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">Empa</span>
+      <span class="timeline-org"><img src="assets/logos/empa.png" alt="" aria-hidden="true" class="timeline-org-logo">Empa</span>
       <span class="timeline-role">Postdoctoral Researcher</span>
       <span class="timeline-dates">Apr 2019 – Apr 2021</span>
     </div>
@@ -62,7 +62,7 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">UCL</span>
+      <span class="timeline-org"><img src="assets/logos/ucl.png" alt="" aria-hidden="true" class="timeline-org-logo">UCL</span>
       <span class="timeline-role">Postdoctoral Researcher</span>
       <span class="timeline-dates">Apr 2018 – Apr 2019</span>
     </div>
@@ -73,7 +73,7 @@
   <div class="timeline-item">
     <span class="timeline-dot"></span>
     <div class="timeline-header">
-      <span class="timeline-org">EPFL</span>
+      <span class="timeline-org"><img src="assets/logos/epfl.png" alt="" aria-hidden="true" class="timeline-org-logo">EPFL</span>
       <span class="timeline-role">PhD Fellow and Teaching Assistant</span>
       <span class="timeline-dates">Oct 2013 – Apr 2018</span>
     </div>

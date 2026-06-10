@@ -1285,6 +1285,16 @@ html {
     color: var(--color-accent-2);
 }
 
+.timeline-org-logo {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    object-fit: contain;
+    vertical-align: -0.15em;
+    margin-right: 0.4em;
+    border-radius: 2px;
+}
+
 .timeline-role {
     color: var(--color-global-text);
     font-size: 1rem;
