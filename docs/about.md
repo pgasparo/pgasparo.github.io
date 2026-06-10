@@ -19,4 +19,4 @@
 
 
 
-I'm Piero Gasparotto, a quantum software engineer at Microsoft Quantum, where I work on AI-driven solutions for end-to-end quantum chemistry and materials science workflows. My work spans machine learning, high-performance computing, and scientific software engineering, with a focus on building scalable, customer-facing platforms and automated workflows that translate advanced research into practical applications.
+I'm Piero Gasparotto, a Senior Scientist at Microsoft Quantum, working at the intersection of AI for Science, computational chemistry, quantum computing, and cloud-native agentic workflows. My work focuses on enabling scalable, quantum-accurate simulations and unlocking new possibilities in materials discovery and drug design.
