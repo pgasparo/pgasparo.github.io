@@ -5,7 +5,7 @@
 <div class="timeline">
 
   <div class="timeline-item">
-    <span class="timeline-dot"></span>
+    <span class="timeline-dot timeline-dot--current"></span>
     <div class="timeline-header">
       <span class="timeline-org"><img src="assets/logos/microsoft.svg" alt="" aria-hidden="true" class="timeline-org-logo">Microsoft</span>
       <span class="timeline-role">Senior Quantum Software Engineer</span>

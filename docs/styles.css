@@ -21,6 +21,7 @@ html {
     --color-border: #e5e7eb;
     --color-card-bg: rgba(255, 255, 255, 0.8);
     --color-shadow: rgba(0, 0, 0, 0.1);
+    --color-current-ring: #d97706;
 }
 
 /* Dark theme colors */
@@ -34,6 +35,7 @@ html {
     --color-border: #374151;
     --color-card-bg: rgba(31, 41, 55, 0.8);
     --color-shadow: rgba(0, 0, 0, 0.3);
+    --color-current-ring: #ffd400;
 }
 
 /* Base typography */
@@ -1270,6 +1272,10 @@ html {
     border-radius: 9999px;
     background: var(--color-accent);
     box-shadow: 0 0 0 4px color-mix(in srgb, var(--color-accent) 20%, transparent);
+}
+
+.timeline-dot--current {
+    box-shadow: 0 0 0 4px var(--color-current-ring);
 }
 
 .timeline-header {
