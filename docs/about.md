@@ -19,4 +19,4 @@
 
 
 
-I'm Piero Gasparotto, a Senior Scientist at Microsoft Quantum, working at the intersection of AI for Science, computational chemistry, quantum computing, and cloud-native agentic workflows. My work focuses on enabling scalable, quantum-accurate simulations and unlocking new possibilities in materials discovery and drug design.
+I'm Piero Gasparotto, a Senior Quantum Applications Architect at Microsoft Quantum, working at the intersection of AI for Science, computational chemistry, quantum computing, and cloud-native agentic workflows. My work focuses on enabling scalable, quantum-accurate simulations and unlocking new possibilities in materials discovery and drug design.
